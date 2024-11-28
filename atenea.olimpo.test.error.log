@@ -1,0 +1,15 @@
+[Wed Nov 27 13:11:23.058713 2024] [mpm_event:notice] [pid 2474:tid 2474] AH00489: Apache/2.4.62 (Debian) configured -- resuming normal operations
+[Wed Nov 27 13:11:23.058810 2024] [core:notice] [pid 2474:tid 2474] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Nov 27 13:11:25.160068 2024] [mpm_event:notice] [pid 2474:tid 2474] AH00492: caught SIGWINCH, shutting down gracefully
+[Wed Nov 27 13:11:25.223674 2024] [mpm_event:notice] [pid 2638:tid 2638] AH00489: Apache/2.4.62 (Debian) configured -- resuming normal operations
+[Wed Nov 27 13:11:25.223760 2024] [core:notice] [pid 2638:tid 2638] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Nov 27 13:16:56.340821 2024] [mpm_event:notice] [pid 447:tid 447] AH00489: Apache/2.4.62 (Debian) configured -- resuming normal operations
+[Wed Nov 27 13:16:56.341008 2024] [core:notice] [pid 447:tid 447] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Nov 27 13:19:59.860861 2024] [mpm_event:notice] [pid 447:tid 447] AH00493: SIGUSR1 received.  Doing graceful restart
+[Wed Nov 27 13:19:59.864558 2024] [mpm_event:notice] [pid 447:tid 447] AH00489: Apache/2.4.62 (Debian) configured -- resuming normal operations
+[Wed Nov 27 13:19:59.864567 2024] [core:notice] [pid 447:tid 447] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Nov 27 13:36:43.368379 2024] [mpm_event:notice] [pid 447:tid 447] AH00493: SIGUSR1 received.  Doing graceful restart
+[Wed Nov 27 13:36:43.394653 2024] [mpm_event:notice] [pid 447:tid 447] AH00489: Apache/2.4.62 (Debian) configured -- resuming normal operations
+[Wed Nov 27 13:36:43.394668 2024] [core:notice] [pid 447:tid 447] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Nov 28 12:11:41.008846 2024] [mpm_event:notice] [pid 441:tid 441] AH00489: Apache/2.4.62 (Debian) configured -- resuming normal operations
+[Thu Nov 28 12:11:41.009634 2024] [core:notice] [pid 441:tid 441] AH00094: Command line: '/usr/sbin/apache2'
